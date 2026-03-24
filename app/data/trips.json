@@ -1,0 +1,64 @@
+{
+  "trips": [
+    {
+      "id": "1",
+      "from": "Nairobi",
+      "to": "Mombasa",
+      "date": "2026-03-26",
+      "time": "08:30 AM",
+      "price": 1200,
+      "totalSeats": 48,
+      "takenSeats": ["1A","1B","2C","2D","3A","4B","4D","5A","5C","6B","7A","7D","8C","9A","9B","10D"]
+    },
+    {
+      "id": "2",
+      "from": "Nairobi",
+      "to": "Kisumu",
+      "date": "2026-03-26",
+      "time": "07:00 AM",
+      "price": 1000,
+      "totalSeats": 48,
+      "takenSeats": ["1A","1C","2B","3D","4A","5B","6C","7A"]
+    },
+    {
+      "id": "3",
+      "from": "Nairobi",
+      "to": "Nakuru",
+      "date": "2026-03-26",
+      "time": "09:00 AM",
+      "price": 600,
+      "totalSeats": 48,
+      "takenSeats": ["1B","2A","3C","4D"]
+    },
+    {
+      "id": "4",
+      "from": "Mombasa",
+      "to": "Nairobi",
+      "date": "2026-03-26",
+      "time": "10:00 AM",
+      "price": 1200,
+      "totalSeats": 48,
+      "takenSeats": ["1A","2C","3B","4D","5A","6B"]
+    },
+    {
+      "id": "5",
+      "from": "Kisumu",
+      "to": "Nairobi",
+      "date": "2026-03-27",
+      "time": "06:00 AM",
+      "price": 1000,
+      "totalSeats": 48,
+      "takenSeats": ["1A","1B","2A","2B"]
+    },
+    {
+      "id": "6",
+      "from": "Nairobi",
+      "to": "Eldoret",
+      "date": "2026-03-27",
+      "time": "08:00 AM",
+      "price": 800,
+      "totalSeats": 48,
+      "takenSeats": ["1C","2D","3A","4B","5C","6D","7A","8B"]
+    }
+  ]
+}
